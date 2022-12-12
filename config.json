@@ -1,0 +1,10 @@
+{
+    "unit_id" : 1,
+    "mqtt_publish_sec" : 20,
+    "topic": "funnelData",
+    "mqttBroker": "mqtt.eclipseprojects.io",
+    "client": "dataFunnel1"
+
+
+
+}
